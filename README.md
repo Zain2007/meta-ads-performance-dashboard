@@ -21,26 +21,55 @@ The business requires a performance-tracking report for advertising campaigns ru
 
 
 ## Dashboard Preview
+#### Facebook
+![Meta Ads Performance Dashboard](https://github.com/Zain2007/meta-ads-performance-dashboard/blob/main/images/facebook.png)
+#### Instagram
+![Meta Ads Performance Dashboard](https://github.com/Zain2007/meta-ads-performance-dashboard/blob/main/images/instagram.png)
 
-![Meta Ads Performance Dashboard](images/dashboard-overview.png)
+## KPI Summary
+
+* **Impressions — 216K:** Total number of times the advertisements were displayed.
+
+* **Clicks — 25.4K:** Total interactions in which users clicked an advertisement.
+
+* **Comments — 2.6K and Shares — 1.3K:** Indicators of audience interaction and content relevance.
+
+* **Purchases — 1.3K:** Purchase conversion events attributed to the advertising campaigns.
+
+* **Engagements — 29K:** Total recorded engagement actions across the campaigns.
+
+* **Click-Through Rate — 11.76%:** Approximately 12 clicks were generated for every 100 impressions.
+
+* **Engagement Rate — 13.56%:** A meaningful proportion of impressions resulted in an engagement action.
+
+* **Click-to-Purchase Conversion Rate — 5.21%:** Approximately 5 out of every 100 clicks resulted in a purchase.
+
+* **Impression-to-Purchase Rate — 0.61%:** Fewer than 1 out of every 100 impressions resulted in a purchase.
+
+* **Total Campaign Budget — 2.5M [Currency]:** Total budget allocated across all campaigns.
+
+* **Average Budget per Campaign — 50.7K [Currency]:** Average allocated budget for each campaign.
 
 ## Key Insights
 
-* **Top-performing campaign:** Add your finding and supporting metric here.
+##### Ads are performing strongly in visibility and engagement, but actual purchase efficiency is weak: need to optimize targeting/landing pages. 
+*  High CTR (11.76%) and Engagement Rate (13.56%) → clearly indicate that the ad 
+creatives, messaging, and targeting at the top of the funnel are very effective. 
+People are interested enough to click, like, share, or comment.
 
-* **Audience performance:** Add your strongest demographic insight here.
+*  Low Purchase Rate (0.61%) and only 1.3K conversions out of 216K impressions 
+→ shows a sharp drop-off in the lower funnel. This is a classic case of "awareness 
+and interest" being strong but "action (purchase)" being weak. 
 
-* **Conversion performance:** Add your conversion-rate or purchase insight here.
-
-* **Budget efficiency:** Add your cost, ROI, ROAS, or budget-utilization insight here.
-
-> Replace these placeholders with actual, quantified findings from the dashboard.
-
-## Dashboard Demonstration
-
-[![Watch the dashboard demonstration](images/dashboard-overview.png)](YOUR-YOUTUBE-LINK)
-
-Watch the short demonstration to see the dashboard’s filters, page navigation, and interactive analysis.
+## Final Insights & Recommendations 
+1. Strong awareness & engagement (high CTR & ER), but low purchase funnel 
+efficiency : need better conversion strategy. 
+2. Target audience: Females, 18–30, especially in India & Brazil. 
+3. Best ad formats: Video > Stories > Carousel/Image. 
+4. Timing: Schedule ads in the afternoon & evening slots. 
+5. Budget Optimization: Shift more spend to high-performing geographies and ad 
+formats. 
+6. Action: Improve landing pages, offers, retargeting campaigns to lift purchase rate.
 
 ## Dashboard Features
 
@@ -57,28 +86,6 @@ Watch the short demonstration to see the dashboard’s filters, page navigation,
 * Time-based performance trends
 
 * Interactive campaign, date, location, and audience filters
-
-## Key Performance Indicators
-
-* Impressions
-
-* Clicks
-
-* Click-through rate (CTR)
-
-* Engagements
-
-* Conversions
-
-* Purchases
-
-* Conversion rate
-
-* Advertising spend
-
-* Cost per result
-
-* Return on ad spend (ROAS), if applicable
 
 ## Tools and Techniques
 
@@ -104,12 +111,6 @@ The original Power BI `.pbix` file is maintained privately to protect the projec
 
 ## Author
 
-**Your Full Name**
+**Mohamed Alhadi**
 
 [LinkedIn](YOUR-LINKEDIN-LINK) · [GitHub](YOUR-GITHUB-PROFILE-LINK)
-
-## Copyright
-
-© 2026 Your Full Name. All rights reserved.
-
-This dashboard and its associated visual design, analytical methodology, and documentation are presented for portfolio and evaluation purposes only. No permission is granted to copy, modify, redistribute, or use this work commercially without prior written permission.
